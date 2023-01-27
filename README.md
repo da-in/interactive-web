@@ -1,6 +1,6 @@
 # Interactive Web
 
-🥰 Fast campus [초격차 패키지 : 21개 프로젝트로 완성하는 인터랙티브 웹 개발 with Three.js & Canvas](https://fastcampus.co.kr/dev_online_interactive) 를 수강하며 공부한 내용을 정리합니다.
+- 🥰 Fast campus [초격차 패키지 : 21개 프로젝트로 완성하는 인터랙티브 웹 개발 with Three.js & Canvas](https://fastcampus.co.kr/dev_online_interactive) 를 수강하며 공부한 내용을 정리합니다.
 
 <br/>
 
