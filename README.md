@@ -6,14 +6,18 @@
 
 ## Study Summary
 
+- [CSS flex](https://github.com/da-in/interactive-web/blob/main/Study%20Summary/CSS%20flex.md)
+
 <br/>
 
 ## Contents
 
 ### Part 1. HTML, CSS, JS
+
 - Ch 01. 에어비앤비 클론 코딩 _(No-Framework)_
 
 ### Part 2. Canvas
+
 - Ch 01. 캔버스 파티클 다루기 심플 예제
 - Ch 02. 불꽃놀이
 - Ch 03. LG 카운트다운
